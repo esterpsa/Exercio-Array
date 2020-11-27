@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Função A\bin\Debug\netcoreapp3.1\Função A.exe
+C:\Users\ACER\Desktop\Função A\bin\Debug\netcoreapp3.1\Função A.deps.json
+C:\Users\ACER\Desktop\Função A\bin\Debug\netcoreapp3.1\Função A.runtimeconfig.json
+C:\Users\ACER\Desktop\Função A\bin\Debug\netcoreapp3.1\Função A.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Função A\bin\Debug\netcoreapp3.1\Função A.dll
+C:\Users\ACER\Desktop\Função A\bin\Debug\netcoreapp3.1\Função A.pdb
+C:\Users\ACER\Desktop\Função A\obj\Debug\netcoreapp3.1\Função A.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Função A\obj\Debug\netcoreapp3.1\Função A.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Função A\obj\Debug\netcoreapp3.1\Função A.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Função A\obj\Debug\netcoreapp3.1\Função A.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Função A\obj\Debug\netcoreapp3.1\Função A.dll
+C:\Users\ACER\Desktop\Função A\obj\Debug\netcoreapp3.1\Função A.pdb
+C:\Users\ACER\Desktop\Função A\obj\Debug\netcoreapp3.1\Função A.genruntimeconfig.cache
