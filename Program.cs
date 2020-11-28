@@ -53,8 +53,8 @@ namespace Função_A
               Console.WriteLine("Boa sorte no campeonato! oss");
           }else{
               Console.WriteLine("Conheça a loja da federação");
-              Console.WriteLine("---------------------");
               Console.WriteLine("Qual cor você precisa?");
+              Console.WriteLine("---------------------");
 
                 for(int contador = 0; contador < cores.Length; contador++)
             {
